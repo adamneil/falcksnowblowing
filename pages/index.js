@@ -88,7 +88,7 @@ export default function Landing() {
                   <i className="fas fa-snowflake text-xl"></i>
                 </div>
                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                  Wahpeton/Breckenridge Snow Removal.
+                  Wahpeton / Breckenridge Snow Removal.
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
                   Don't let the snow get you down. Falck Snow Blowing offers snow removal services for the Wahpeton/Breckenridge area. Why not have a cup of hot tea while we do the work for you?
